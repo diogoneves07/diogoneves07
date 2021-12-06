@@ -12,7 +12,7 @@ Devido ao fato de que natural de uma cidade pequena do interior e não encontrar
 
 
 <p align='center'>
-<a href = "mailto:contato@ndiogo778@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>  
+<a href = "mailto:@ndiogo778@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>  
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/diogoneves07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
 

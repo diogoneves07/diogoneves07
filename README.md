@@ -2,7 +2,7 @@
 
 Meu nome é Diogo neves, tenho 23 anos, me autodeclaro apaixonado por tecnologia, sempre movido pela curiosidade, busco sempre obter conhecimento sobre vários assuntos.  Tenho experiências práticas com várias ferramentas, desde linguagens (HTML, CSS, JavaScript, TypeScript, PHP, SQL e outras), a bibliotecas/frameworks (React, Vue, jQuery e outros).
 
-Notavelmente, tenho proficiência em JavaScript, linguagem que utilizei para desenvolver 4 bibliotecas, a mais recente delas é uma biblioteca denominada [BemtvAbreviação do nome do pássaro [Bem-te-vi](https://pt.wikipedia.org/wiki/Bem-te-vi)](https://github.com/diogoneves07/bemtvjs).
+Notavelmente, tenho proficiência em JavaScript, linguagem que utilizei para desenvolver 4 bibliotecas, a mais recente delas é uma biblioteca denominada [Bemtv(Abreviação do nome do pássaro Bem-te-vi)](https://github.com/diogoneves07/bemtvjs).
 
 Sou um profissional autodidata, geralmente busco conhecer assuntos ao nível que me interesse, ou de acordo com a necessidade do projeto e do trabalho.
 

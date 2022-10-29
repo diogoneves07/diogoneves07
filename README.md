@@ -1,14 +1,30 @@
 ## Como vão devs?.
 
-Meu nome é Diogo neves, tenho 23 anos, me autodeclaro apaixonado por tecnologia, sempre movido pela curiosidade, busco sempre obter conhecimento sobre vários assuntos.  Tenho experiências práticas com várias ferramentas, desde linguagens (HTML, CSS, JavaScript, TypeScript, PHP, SQL e outras), a bibliotecas/frameworks (React, Vue, jQuery e outros).
+Meu nome é Diogo neves, tenho 23 anos.
 
-Notavelmente, tenho proficiência em JavaScript, linguagem que utilizei para desenvolver 4 bibliotecas, a mais recente delas é uma biblioteca denominada [Bemtv(Abreviação do nome do pássaro Bem-te-vi)](https://github.com/diogoneves07/bemtvjs).
+Me autodeclaro apaixonado por tecnologia, sempre movido pela curiosidade,
+busco conhecimento sobre diversos assuntos. Tenho experiências práticas
+com várias ferramentas: HTML, CSS, JavaScript, TypeScript, Express.js,
+Graphql, Axios, React, Angular, Vite, Jest, Python, Node.js, GIT, CI, Regex...
 
-Sou um profissional autodidata, geralmente busco conhecer assuntos ao nível que me interesse, ou de acordo com a necessidade do projeto e do trabalho.
 
-Atualmente estou aprimorando meus estudos em inglês, possuo desempenho considerável, sou capaz de me expressar de forma básica e entender conteúdos relativamente bem, e recentemente adentrei aos estudos de cálculo.
+Notavelmente, sou proficiente em JavaScript/TypeScript, a linguagem que
+usei para desenvolver 4 bibliotecas, a mais recente uma biblioteca de
+interface do usuário(UI) semelhante ao React denominada Bemtv. Gosto de
+me desafiar!
 
-Devido ao fato de que natural de uma cidade pequena do interior e não encontrar profissionais da área para fazer parceria, já desenvolve diversos projetos sozinho, com isso, consegui desempenhar diversas funções no desenvolvimento de software, deste projetar a arquitetura a fazer o design do logo. Adquiri a capacidade de passar horas ou meses focado em resolver, criar ou aprender algo e sem dúvidas essa é uma das minhas maiores qualidades (isso poderá ser observado em meus projetos), gosto de desafios, e também aprecio conversas a respeito do mundo e da vida.
+
+Sou um profissional autodidata, geralmente busco conhecer assuntos ao nível
+que me interesse, ou conforme a necessidade do projeto e do trabalho.
+Atualmente estou aprimorando meus estudos em inglês, possuo desempenho
+considerável. 
+
+
+Adquiri a capacidade de passar horas ou meses focado em resolver, criar ou
+aprender algo e sem dúvidas essa é uma das minhas maiores qualidades
+(isso poderá ser observado em meus projetos), gosto de desafios, e também
+aprecio conversas a respeito do mundo e da vida.
+
 
 
 <p align='center'>

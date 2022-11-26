@@ -1,6 +1,6 @@
 ## Olá pessoas!
 
-Meu nome é Diogo neves, tenho 23 anos.
+Meu nome é Diogo neves.
 
 Me autodeclaro apaixonado por tecnologia, sempre movido pela curiosidade,
 busco conhecimento sobre diversos assuntos. Tenho experiências práticas

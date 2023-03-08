@@ -2,29 +2,14 @@
 
 Meu nome é Diogo neves.
 
-Me autodeclaro apaixonado por tecnologia, sempre movido pela curiosidade,
-busco conhecimento sobre diversos assuntos. Tenho experiências práticas
-com várias ferramentas: HTML, CSS, JavaScript, TypeScript, Express.js,
-Graphql, Axios, React, Angular, Vite, Jest, Python, Node.js, GIT, CI, Regex...
+Sou um desenvolvedor com foco em Frontend, mas também tenho habilidades em Backend. Com anos de prática e dedicação, aprendi a dedicar horas, dias e até meses para resolver problemas complexos e aprimorar minhas habilidades.
 
+Possuo experiência em diversas ferramentas e tecnologias, incluindo, mas não limitado a: Javascript, Typescript, HTML, CSS, React, Angular, Vite, NodeJS, Python, Regex, GraphQl, Jest, Git, e CI/CD. Além disso, tenho conhecimentos sólidos em arquiteturas e práticas recomendadas para desenvolvimento de software.
 
 Notavelmente, sou proficiente em JavaScript/TypeScript, a linguagem que
 usei para desenvolver 4 bibliotecas, a mais recente uma biblioteca de
 interface do usuário(UI) semelhante ao React denominada Bemtv. Gosto de
 me desafiar!
-
-
-Sou um profissional autodidata, geralmente busco conhecer assuntos ao nível
-que me interesse, ou conforme a necessidade do projeto e do trabalho.
-Atualmente estou aprimorando meus estudos em inglês, possuo desempenho
-considerável. 
-
-
-Adquiri a capacidade de passar horas ou meses focado em resolver, criar ou
-aprender algo e sem dúvidas essa é uma das minhas maiores qualidades
-(isso poderá ser observado em meus projetos), gosto de desafios, e também
-aprecio conversas a respeito do mundo e da vida.
-
 
 
 <p align='center'>

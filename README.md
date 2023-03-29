@@ -11,6 +11,17 @@ usei para desenvolver 4 bibliotecas, a mais recente uma biblioteca de
 interface do usuário(UI) semelhante ao React denominada Bemtv. Gosto de
 me desafiar!
 
+<br>
+
+<div>
+ <p align='center'>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoneves07&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoneves07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </p>
+</div>
+
+<br>
 
 <p align='center'>
 <a href = "mailto:07dneves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>  

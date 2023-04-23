@@ -8,8 +8,11 @@ Possuo experiência em diversas ferramentas e tecnologias, incluindo, mas não l
 
 Notavelmente, sou proficiente em JavaScript/TypeScript, a linguagem que
 usei para desenvolver 4 bibliotecas, a mais recente uma biblioteca de
-interface do usuário(UI) semelhante ao React denominada Bemtv. Gosto de
-me desafiar!
+interface do usuário(UI) semelhante ao React denominada Bemtv.
+
+Gosta de animações? veja algumas que eu fiz
+com a minha própria bliblioteca de animações aqui:
+https://codepen.io/collection/jbzpzE
 
 <br>
 

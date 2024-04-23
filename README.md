@@ -2,9 +2,9 @@
 
 Meu nome é Diogo neves.
 
-Sou um desenvolvedor com foco em Frontend, mas também tenho habilidades em Backend. Com anos de prática e dedicação, aprendi a dedicar horas, dias e até meses para resolver problemas complexos e aprimorar minhas habilidades.
+Desenvolvedor Front-End com conhecimentos em Back-End. Habilidades para interação eficaz em reuniões com clientes e experiência em todas as fases de projetos, garantindo soluções de alta qualidade
 
-Possuo experiência em diversas ferramentas e tecnologias, incluindo, mas não limitado a: Javascript, Typescript, HTML, CSS, React, Angular, Vite, NodeJS, Python, Regex, GraphQl, Jest, Git, e CI/CD. Além disso, tenho conhecimentos sólidos em arquiteturas e práticas recomendadas para desenvolvimento de software.
+Possuo experiência em diversas ferramentas e tecnologias, incluindo, mas não limitado a: Javascript, Typescript, HTML, CSS, React, Angular, Vue, Vite, NodeJS, Python, Regex, GraphQl, Jest, Git, e CI/CD. Além disso, tenho conhecimentos sólidos em arquiteturas e práticas recomendadas para desenvolvimento de software.
 
 Notavelmente, sou proficiente em JavaScript/TypeScript, a linguagem que
 usei para desenvolver 4 bibliotecas, a mais recente uma biblioteca de
